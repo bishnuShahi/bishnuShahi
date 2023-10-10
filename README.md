@@ -10,6 +10,6 @@
 
 🌟 If you're looking for a passionate Machine Learning enthusiast with expertise in Django and TensorFlow, feel free to reach out. Let's connect and explore the endless possibilities of data-driven solutions together!
 
-📬 You can reach me at https://www.linkedin.com/in/bishnu-shahi-b3366221a/. I'm always excited to collaborate on exciting projects and contribute to the advancement of the field.
+📬 You can reach me at https://www.linkedin.com/in/bishnu-shahi/. I'm always excited to collaborate on exciting projects and contribute to the advancement of the field.
 
 Looking forward to connecting with you and making a positive impact in the world of Machine Learning!
